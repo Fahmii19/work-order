@@ -1,0 +1,1013 @@
+[18-Sep-2018 12:56:05 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 12:57:49 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 12:57:49 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 12:57:50 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AD%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 12:57:50 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ADZ%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 13:05:30 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AD%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 13:05:31 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ADZ%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 13:07:57 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'A%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 13:07:58 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ADZ%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 13:11:41 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AD%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 13:11:41 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ADZ%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 13:21:59 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AD%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 13:21:59 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ADZ%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[18-Sep-2018 13:39:22 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'adz%'' at line 1' in /home/k0762615/public_html/work-order/search/search-tekn.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-tekn.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-tekn.php on line 17
+[19-Dec-2018 10:39:52 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'so_id AND like '%2-167302073823%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[19-Dec-2018 10:39:53 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'so_id AND like '%2-163156815660%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[21-Dec-2018 13:43:41 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%vGZWiE7n%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[03-Jan-2019 08:57:46 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-138862145911%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[03-Jan-2019 08:58:04 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-13886214591%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[03-Jan-2019 08:58:05 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[03-Jan-2019 08:58:16 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-138862145911%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[03-Jan-2019 09:06:19 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-167896948286%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[03-Jan-2019 09:28:35 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-165729818307%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 11:06:34 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-138862145911%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 11:15:07 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%075/SK-LR/BAP/IV/2018%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:09 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%075/SK-LR/BAP/IV/20%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:17 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%075/SK-LR/BAP/IV/2018%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:20 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%075/SK-LR/BAP/IV/201%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:20 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%075/SK-LR/BAP/IV/20%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:26 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%075/SK-LR/BAP/IV/2%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:27 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%075/SK-LR/BAP/I%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:29 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%0%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:31 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%07%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:39 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%07%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 11:15:40 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'no_ba like '%075%'' at line 1' in /home/k0762615/public_html/work-order/search/search-ba.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-ba.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-ba.php on line 17
+[04-Jan-2019 16:06:40 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%JRwEsqV%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:06:41 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%1%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:06:42 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%154%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:06:45 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%15%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:06:46 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%6%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:06:47 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%61%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:06:47 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%6154%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:06:53 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%615%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:00 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%6%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:01 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%61%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:01 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%6154%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:16 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%615%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:54 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%JRwEsqV%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:55 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%6%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:56 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%61%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:57 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%615%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:57 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%6154%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:07:58 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%615%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:08:01 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-214191186154%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[04-Jan-2019 16:08:11 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-21419118615%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:00 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%JRwEsqV%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:02 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%8%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:02 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%83%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:03 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%830%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:04 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%8307%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:05 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%830%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:08 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%83%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:09 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%8%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:11 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%3%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:11 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%30%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:12 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%307%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:16 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%30%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:17 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%3%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:19 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%3%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:20 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%30%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:20 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%307%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:35 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%83%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:36 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%830%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:37 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%8307%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:47 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%830%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:50 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%8%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:51 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%83%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:52 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%830%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:52 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%8307%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 08:54:53 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%83%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 13:27:00 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-21810719295%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[07-Jan-2019 13:27:28 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-21810719295%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[08-Jan-2019 14:57:39 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%ZLaISKBe%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[08-Jan-2019 14:57:41 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-213404124701%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[08-Jan-2019 14:57:42 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2-21340412470%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[08-Jan-2019 14:57:43 Asia/Jakarta] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%2%'' at line 1' in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[02-Jun-2019 03:28:47 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pic.php on line 14
+[02-Jun-2019 03:28:52 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-tgl.php on line 14
+[02-Jun-2019 03:29:00 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-wo-admin.php on line 14
+[02-Jun-2019 03:29:35 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[02-Jun-2019 03:29:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[02-Jun-2019 03:29:51 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-customer.php on line 14
+[02-Jun-2019 03:30:29 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[02-Jun-2019 03:30:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[03-Jun-2019 14:15:40 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[03-Jun-2019 14:15:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[03-Jun-2019 14:17:52 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[03-Jun-2019 14:17:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[04-Jun-2019 21:43:33 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[04-Jun-2019 21:43:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[04-Jun-2019 21:45:24 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[04-Jun-2019 21:45:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[06-Jun-2019 10:38:05 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[06-Jun-2019 10:38:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[06-Jun-2019 10:39:53 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[06-Jun-2019 10:39:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[20-Jun-2019 19:34:34 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[20-Jun-2019 19:34:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[22-Jun-2019 01:14:15 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[22-Jun-2019 01:14:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[23-Jun-2019 06:35:20 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[23-Jun-2019 06:35:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[24-Jun-2019 19:10:18 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[24-Jun-2019 19:10:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[25-Jun-2019 07:16:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:16:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:16:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:16:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:25:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:25:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:25:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:25:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:25:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:25:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:26:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:26:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:26:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:26:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[25-Jun-2019 07:27:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[27-Jun-2019 04:16:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[27-Jun-2019 04:16:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[27-Jun-2019 04:16:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[27-Jun-2019 04:16:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[27-Jun-2019 04:16:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[27-Jun-2019 04:16:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[27-Jun-2019 04:16:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:27:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:27:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:27:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:27:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 06:28:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-teknisi.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-teknisi.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 17
+[01-Jul-2019 16:25:11 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[01-Jul-2019 16:25:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[01-Jul-2019 16:26:48 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[01-Jul-2019 16:26:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[03-Jul-2019 08:56:53 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[03-Jul-2019 08:56:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[03-Jul-2019 08:57:34 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[03-Jul-2019 08:57:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[04-Jul-2019 09:42:46 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[04-Jul-2019 09:42:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[04-Jul-2019 09:44:52 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[04-Jul-2019 09:44:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[06-Jul-2019 10:16:48 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[06-Jul-2019 10:16:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[06-Jul-2019 10:18:13 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[06-Jul-2019 10:18:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[09-Jul-2019 14:49:12 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[09-Jul-2019 14:49:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[09-Jul-2019 14:50:36 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[09-Jul-2019 14:50:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[11-Jul-2019 12:18:09 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[11-Jul-2019 12:18:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[11-Jul-2019 13:52:55 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[11-Jul-2019 13:52:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[12-Jul-2019 16:33:09 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[12-Jul-2019 16:33:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[12-Jul-2019 16:34:04 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[12-Jul-2019 16:34:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[14-Jul-2019 00:44:30 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[14-Jul-2019 00:44:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[14-Jul-2019 00:44:59 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[14-Jul-2019 00:44:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[18-Jul-2019 20:13:47 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[18-Jul-2019 20:13:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[18-Jul-2019 20:14:15 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[18-Jul-2019 20:14:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[20-Jul-2019 02:03:08 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[20-Jul-2019 02:03:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[20-Jul-2019 02:04:18 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[20-Jul-2019 02:04:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[21-Jul-2019 08:21:36 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[21-Jul-2019 08:21:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[21-Jul-2019 08:22:27 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[21-Jul-2019 08:22:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[22-Jul-2019 12:25:52 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[22-Jul-2019 12:25:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[22-Jul-2019 12:26:38 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[22-Jul-2019 12:26:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[23-Jul-2019 15:47:46 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[23-Jul-2019 15:47:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[25-Jul-2019 06:59:04 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[25-Jul-2019 06:59:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[31-Jul-2019 12:19:29 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[31-Jul-2019 12:19:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[03-Aug-2019 22:59:06 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[03-Aug-2019 22:59:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[03-Aug-2019 22:59:15 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-customer.php on line 14
+[03-Aug-2019 22:59:44 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pic.php on line 14
+[03-Aug-2019 22:59:49 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-tgl.php on line 14
+[03-Aug-2019 23:00:04 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-wo-admin.php on line 14
+[05-Aug-2019 19:35:52 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[05-Aug-2019 19:35:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[07-Aug-2019 15:11:40 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[07-Aug-2019 15:11:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[22-Aug-2019 02:31:05 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[22-Aug-2019 02:31:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[22-Aug-2019 02:32:08 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[22-Aug-2019 02:32:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[23-Aug-2019 07:01:13 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[23-Aug-2019 07:01:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[23-Aug-2019 07:02:01 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[23-Aug-2019 07:02:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[24-Aug-2019 10:16:23 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[24-Aug-2019 10:16:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[24-Aug-2019 10:16:42 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[24-Aug-2019 10:16:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[25-Aug-2019 16:39:31 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[25-Aug-2019 16:39:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[19-Oct-2019 07:40:33 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[19-Oct-2019 07:40:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[19-Oct-2019 07:40:38 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[19-Oct-2019 07:40:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[19-Oct-2019 20:21:42 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-customer.php on line 14
+[19-Oct-2019 20:21:47 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pic.php on line 14
+[19-Oct-2019 20:21:52 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-tgl.php on line 14
+[19-Oct-2019 20:22:10 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-wo-admin.php on line 14
+[20-Oct-2019 07:47:26 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[20-Oct-2019 07:47:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[20-Oct-2019 07:47:30 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[20-Oct-2019 07:47:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[21-Oct-2019 08:02:11 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[21-Oct-2019 08:02:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[21-Oct-2019 08:02:41 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[21-Oct-2019 08:02:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[21-Oct-2019 11:19:53 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-ba.php on line 14
+[21-Oct-2019 11:19:58 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pro.php on line 14
+[21-Oct-2019 11:20:55 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-kasbon.php on line 14
+[21-Oct-2019 11:21:19 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-so.php on line 14
+[21-Oct-2019 11:21:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%%'' at line 1 in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[21-Oct-2019 11:21:48 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-teknisi.php on line 14
+[21-Oct-2019 11:22:21 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-woid.php on line 14
+[21-Oct-2019 11:23:19 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-ptjb.php on line 14
+[21-Oct-2019 11:25:47 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-wo.php on line 14
+[22-Oct-2019 08:48:13 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[22-Oct-2019 08:48:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[22-Oct-2019 08:49:42 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-admin.php on line 14
+[22-Oct-2019 08:49:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.pegawai' doesn't exist in /home/k0762615/public_html/work-order/search/search-admin.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-admin.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-admin.php on line 17
+[23-Oct-2019 09:23:00 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[23-Oct-2019 09:23:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[24-Oct-2019 11:17:43 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[24-Oct-2019 11:17:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[25-Oct-2019 02:36:10 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-so.php on line 14
+[25-Oct-2019 02:36:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%%'' at line 1 in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[25-Oct-2019 12:16:59 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-pkl.php on line 14
+[25-Oct-2019 12:16:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'k0762615_pegawai_1.tbl_pkl' doesn't exist in /home/k0762615/public_html/work-order/search/search-pkl.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-pkl.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-pkl.php on line 17
+[26-Oct-2019 04:47:04 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-so.php on line 14
+[26-Oct-2019 04:47:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%%'' at line 1 in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
+[27-Oct-2019 06:41:01 UTC] PHP Notice:  Undefined index: term in /home/k0762615/public_html/work-order/search/search-so.php on line 14
+[27-Oct-2019 06:41:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'so_id AND like '%%'' at line 1 in /home/k0762615/public_html/work-order/search/search-so.php:17
+Stack trace:
+#0 /home/k0762615/public_html/work-order/search/search-so.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/k0762615/public_html/work-order/search/search-so.php on line 17
