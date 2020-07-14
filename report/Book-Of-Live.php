@@ -30,8 +30,8 @@
         } else {
           echo "Bulan Kosong";
         }
-  header("Content-type: application/vnd-ms-excel");
-  header("Content-Disposition: attachment; filename=Book Of Life - ". $bulan. " ".$p_tahun.".xls");
+  // header("Content-type: application/vnd-ms-excel");
+  // header("Content-Disposition: attachment; filename=Book Of Life - ". $bulan. " ".$p_tahun.".xls");
 ?>
 <style type="text/css">
   table,th,td{
@@ -76,6 +76,7 @@
       <th>PAID</th>
       <th>TGL INV</th>
       <th>FINAL STATUS</th>
+      <th>PENGELUARAN</th>
     </tr>
   </thead>
   <tbody>
@@ -88,9 +89,11 @@
         include('../config/koneksi.php');
 
         $no = 1;
-        $res = $con->query("SELECT * FROM tbl_project_wo JOIN tbl_schedule_wo ON tbl_project_wo.kode_jadwal = tbl_schedule_wo.kode_jadwal JOIN tbl_teknisi_wo ON tbl_project_wo.kode_teknisi = tbl_teknisi_wo.kode_teknisi JOIN tbl_income ON tbl_project_wo.wo_id = tbl_income.wo_id JOIN tbl_kode_income ON tbl_kode_income.kd_income  =tbl_income.kd_income JOIN tbl_income_detail ON tbl_kode_income.kd_detail = tbl_income_detail.kd_detail WHERE month(tgl_project) = '$p_bulan' AND year(tgl_project) = '$p_tahun'");
+        $res = $con->query("SELECT * FROM tbl_project_wo JOIN tbl_schedule_wo ON tbl_project_wo.kode_jadwal = tbl_schedule_wo.kode_jadwal JOIN tbl_teknisi_wo ON tbl_project_wo.kode_teknisi = tbl_teknisi_wo.kode_teknisi JOIN tbl_income ON tbl_project_wo.wo_id = tbl_income.wo_id JOIN tbl_kode_income ON tbl_kode_income.kd_income = tbl_income.kd_income JOIN tbl_income_detail ON tbl_kode_income.kd_detail = tbl_income_detail.kd_detail JOIN tbl_kasbon ON tbl_income.wo_id = tbl_kasbon.wo_id JOIN tbl_amount_kasbon ON tbl_kasbon.kode_amount = tbl_amount_kasbon.kode_amount WHERE month(tgl_project) = '$p_bulan' AND year(tgl_project) = '$p_tahun'");
         while($row = $res->fetch_assoc()){
           $rp = "Rp. ";
+
+          $total = $row['amount1'] + $row['amount2'] + $row['amount3'] + $row['amount4'] + $row['amount5']+$row['amount6'] + $row['amount7'] + $row['amount8'] + $row['amount9'] + $row['amount10'];
     ?>
     <tr>
       <td><?php echo $no; ?></td>
@@ -114,6 +117,7 @@
       <td><?php echo $row['pay_stat']; ?></td>
       <td><?php echo tgl_indo($row['pay_date']); ?></td>
       <td></td>
+      <td><?php echo $total; ?></td>
     </tr>
     <?php
         $no++;
