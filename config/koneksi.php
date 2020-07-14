@@ -1,8 +1,8 @@
 <?php
 	
-	$dbhost = "127.0.0.1";
-	$dbuser = "k0762615_pegawai";
-	$dbpass = "PegawaiLrcom123!@#";
+	$dbhost = "localhost";
+	$dbuser = "root";
+	$dbpass = "";
 	$dbname = "k0762615_pegawai_1";
 
 	$con = new mysqli($dbhost, $dbuser, $dbpass, $dbname);

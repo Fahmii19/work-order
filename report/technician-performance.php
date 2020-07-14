@@ -8,6 +8,7 @@
 
   $p_bulan     = isset($_POST['bulan']) ? $_POST['bulan'] : "";
   $p_tahun     = isset($_POST['tahun']) ? $_POST['tahun'] : "";
+  $p_nama     = isset($_POST['nama']) ? $_POST['nama'] : "";
 
   if ($p_bulan == "01") {
           $bulan = "Januari";
@@ -39,6 +40,12 @@
 ?>
 
 <div class="col-md-12 col-sm-12 col-xs-12">
+                    <form method="post" action="report/excel-technician-performance.php">
+                        <input type="hidden" name="bulan" value="<?php echo $p_bulan ?>">
+                        <input type="hidden" name="tahun" value="<?php echo $p_tahun ?>">
+                        <input type="hidden" name="nama" value="<?php echo $p_nama ?>">
+                        <input type="submit" name="kirim_daftar" class="btn btn-primary" value="EXPORT">
+                    </form>
                 <div class="x_panel">
                   <div class="x_title">
                     <h2>Income List <small>Project Order</small></h2>
@@ -54,7 +61,9 @@
                       <thead>
                         <tr>
                           <th>NO</th>
+                          <th>Nama</th>
                           <th>Project Name</th>
+                          <th>Tanggal Project</th>
                           <th>WO ID</th>
                           <th>SO</th>
                           <th>Customer</th>
@@ -66,22 +75,15 @@
                         
                       <?php
                         $no = 1;
-                        $res = $con->query("SELECT * FROM tbl_project_wo JOIN tbl_schedule_wo ON tbl_project_wo.kode_jadwal = tbl_schedule_wo.kode_jadwal JOIN tbl_teknisi_wo ON tbl_project_wo.kode_teknisi = tbl_teknisi_wo.kode_teknisi JOIN tbl_income ON tbl_project_wo.wo_id = tbl_income.wo_id JOIN tbl_kode_income ON tbl_income.kd_income = tbl_kode_income.kd_income JOIN tbl_income_detail ON tbl_kode_income.kd_detail = tbl_income_detail.kd_detail WHERE month(tbl_income.waktu_input) = '$p_bulan' AND year(tbl_income.waktu_input) = '$p_tahun' ");
+                        $res = $con->query("SELECT teknisi1,teknisi2,teknisi3,teknisi4,('$p_nama') AS teknisi,tbl_teknisi_wo.*,tbl_project_wo.* FROM tbl_project_wo JOIN tbl_teknisi_wo ON tbl_teknisi_wo.kode_teknisi=tbl_project_wo.kode_teknisi  JOIN tbl_schedule_wo ON tbl_project_wo.kode_jadwal = tbl_schedule_wo.kode_jadwal WHERE MONTH(tbl_project_wo.tgl_project) = '$p_bulan' AND YEAR(tbl_project_wo.tgl_project) = '$p_tahun' AND (tbl_teknisi_wo.teknisi1 = '$p_nama' OR tbl_teknisi_wo.teknisi2 = '$p_nama' OR tbl_teknisi_wo.teknisi3 = '$p_nama' OR tbl_teknisi_wo.teknisi4 = '$p_nama')")or die(mysqli_error($con));
                         while($row = $res->fetch_assoc()){
-                          $ba = $row['no_ba'];
-                          $sql = $con->query("SELECT * FROM tbl_income where no_ba = '$ba'");
-                          while($data = $sql->fetch_assoc()){
-                            $rp = "Rp. ";
-                            $price[] = $data['price'];
-                            $nominal[] = $data['price'];
-                            $amount = array_sum($price);
-                            $p_nominal = array_sum($nominal);
-                          }
                       ?>
 
                         <tr>
                           <td><?php echo $no; ?></td>
+                          <td><?php echo $row['teknisi']; ?></td>
                           <td><?php echo $row['project_title']; ?></td>
+                          <td><?php echo $row['tgl_project']; ?></td>
                           <td><?php echo $row['wo_id']; ?></td>
                           <td><?php echo $row['so_id']; ?></td>
                           <td><?php echo $row['customer']; ?></td>

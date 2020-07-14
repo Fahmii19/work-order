@@ -1126,6 +1126,76 @@
     $ambiljs19    = "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js";
     $ambiljs20    = "js/jquery.datatables.min.js";
     $ambiljs21    = "js/datatables.min.js";
+  } elseif ($id == "id-technician-performance") {
+    $nav         = "Technician Performance";
+    $ambil       = "report/id-technician-performance.php";
+    $class       = "active";
+    $ambilcss1   = "vendors/datatables.net-bs/css/dataTables.bootstrap.min.css";
+    $ambilcss2   = "vendors/datatables.net-buttons-bs/css/buttons.bootstrap.min.css";
+    $ambilcss3   = "vendors/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css";
+    $ambilcss4   = "vendors/datatables.net-responsive-bs/css/responsive.bootstrap.min.css";
+    $ambilcss5   = "vendors/datatables.net-scroller-bs/css/scroller.bootstrap.min.css";
+    $ambilcss6   = "vendors/iCheck/skins/flat/green.css";
+    $ambilcss7   = "vendors/normalize-css/normalize.css";
+    $ambilcss8   = "https://code.jquery.com/ui/1.12.0/themes/smoothness/jquery-ui.css";
+    $ambilcss9   = "css/datatables.min.css";
+    $ambiljs0    = "vendors/iCheck/icheck.min.js";
+    $ambiljs1    = "vendors/datatables.net/js/jquery.dataTables.min.js";
+    $ambiljs2    = "vendors/datatables.net-bs/js/dataTables.bootstrap.min.js";
+    $ambiljs3    = "vendors/datatables.net-buttons/js/dataTables.buttons.min.js";
+    $ambiljs4    = "vendors/datatables.net-buttons-bs/js/buttons.bootstrap.min.js";
+    $ambiljs5    = "vendors/datatables.net-buttons/js/buttons.flash.min.js";
+    $ambiljs6    = "vendors/datatables.net-buttons/js/buttons.html5.min.js";
+    $ambiljs7    = "vendors/datatables.net-buttons/js/buttons.print.min.js";
+    $ambiljs8    = "vendors/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js";
+    $ambiljs9    = "vendors/datatables.net-keytable/js/dataTables.keyTable.min.js";
+    $ambiljs10    = "vendors/datatables.net-responsive/js/dataTables.responsive.min.js";
+    $ambiljs11    = "vendors/datatables.net-responsive-bs/js/responsive.bootstrap.js";
+    $ambiljs12    = "vendors/datatables.net-scroller/js/dataTables.scroller.min.js";
+    $ambiljs13    = "vendors/jszip/dist/jszip.min.js";
+    $ambiljs14    = "reference/script/modal.js";
+    $ambiljs15    = "vendors/pdfmake/build/vfs_fonts.js";
+    $ambiljs17    = "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js";
+    $ambiljs18    = "https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js";
+    $ambiljs19    = "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js";
+    $ambiljs20    = "js/jquery.datatables.min.js";
+    $ambiljs21    = "js/datatables.min.js";
+    $ambiljs3    = "vendors/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js";
+  } elseif ($id == "technician-performance") {
+    $nav         = "Technician Performance";
+    $ambil       = "report/technician-performance.php";
+    $class       = "active";
+    $ambilcss1   = "vendors/datatables.net-bs/css/dataTables.bootstrap.min.css";
+    $ambilcss2   = "vendors/datatables.net-buttons-bs/css/buttons.bootstrap.min.css";
+    $ambilcss3   = "vendors/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css";
+    $ambilcss4   = "vendors/datatables.net-responsive-bs/css/responsive.bootstrap.min.css";
+    $ambilcss5   = "vendors/datatables.net-scroller-bs/css/scroller.bootstrap.min.css";
+    $ambilcss6   = "vendors/iCheck/skins/flat/green.css";
+    $ambilcss7   = "vendors/normalize-css/normalize.css";
+    $ambilcss8   = "https://code.jquery.com/ui/1.12.0/themes/smoothness/jquery-ui.css";
+    $ambilcss9   = "css/datatables.min.css";
+    $ambiljs0    = "vendors/iCheck/icheck.min.js";
+    $ambiljs1    = "vendors/datatables.net/js/jquery.dataTables.min.js";
+    $ambiljs2    = "vendors/datatables.net-bs/js/dataTables.bootstrap.min.js";
+    $ambiljs3    = "vendors/datatables.net-buttons/js/dataTables.buttons.min.js";
+    $ambiljs4    = "vendors/datatables.net-buttons-bs/js/buttons.bootstrap.min.js";
+    $ambiljs5    = "vendors/datatables.net-buttons/js/buttons.flash.min.js";
+    $ambiljs6    = "vendors/datatables.net-buttons/js/buttons.html5.min.js";
+    $ambiljs7    = "vendors/datatables.net-buttons/js/buttons.print.min.js";
+    $ambiljs8    = "vendors/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js";
+    $ambiljs9    = "vendors/datatables.net-keytable/js/dataTables.keyTable.min.js";
+    $ambiljs10    = "vendors/datatables.net-responsive/js/dataTables.responsive.min.js";
+    $ambiljs11    = "vendors/datatables.net-responsive-bs/js/responsive.bootstrap.js";
+    $ambiljs12    = "vendors/datatables.net-scroller/js/dataTables.scroller.min.js";
+    $ambiljs13    = "vendors/jszip/dist/jszip.min.js";
+    $ambiljs14    = "reference/script/modal.js";
+    $ambiljs15    = "vendors/pdfmake/build/vfs_fonts.js";
+    $ambiljs17    = "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js";
+    $ambiljs18    = "https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js";
+    $ambiljs19    = "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js";
+    $ambiljs20    = "js/jquery.datatables.min.js";
+    $ambiljs21    = "js/datatables.min.js";
+    $ambiljs3    = "vendors/bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js";
   } else {
     $nav         = "Dashboard";
     $ambil       = "home.php";
@@ -1355,6 +1425,7 @@
                                         <li><a href="?id=report-income-ex&mod=search">Income, Expenditure</a></li>
                                         <li><a href="?id=report-order-w-t">Order Without Technician</a></li>
                                         <li><a href="?id=report-id-wo-n-i">ID WO No Income</a></li>
+                                        <li><a href="?id=id-technician-performance">Technician Performance</a></li>
                                     </ul>
                                 </li>
                                 </li>
