@@ -1,8 +1,8 @@
 <?php
 //Sesuaikan config mysql nya
-    $dns 		= "mysql:host=127.0.0.1;dbname=k0762615_pegawai_1";
-	$db_user 	= "k0762615_pegawai";
-	$db_pass 	= "PegawaiLrcom123!@#";
+    $dns 		= "mysql:host=localhost;dbname=k0762615_pegawai_1";
+	$db_user 	= "root";
+	$db_pass 	= "";
  
 	try {
         $pdo = new PDO($dns, $db_user, $db_pass, array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));      
