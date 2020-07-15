@@ -30,8 +30,8 @@
         } else {
           echo "Bulan Kosong";
         }
-  // header("Content-type: application/vnd-ms-excel");
-  // header("Content-Disposition: attachment; filename=Book Of Life - ". $bulan. " ".$p_tahun.".xls");
+  header("Content-type: application/vnd-ms-excel");
+  header("Content-Disposition: attachment; filename=Book Of Life - ". $bulan. " ".$p_tahun.".xls");
 ?>
 <style type="text/css">
   table,th,td{
